@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Venelin\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B80E800F-C07A-401E-932E-40F146006A7E}|..\\NaichestoSreshtanElement\\NaichestoSreshtanElement.csproj|c:\\venelin\\naichestosreshtanelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4AAECC-078F-45AA-A687-595E86BB12BA}|..\\TursenNaelement\\TursenNaelement.csproj|c:\\venelin\\tursennaelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ECD687-C7FC-4A89-821E-E59B6A1D49B0}|..\\Longestname\\Longestname.csproj|c:\\venelin\\longestname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DA8650-C444-4873-890B-CC649F5218DA}|Arrays.csproj|c:\\venelin\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DA8650-C444-4873-890B-CC649F5218DA}|Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Venelin\\NaichestoSreshtanElement\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NaichestoSreshtanElement\\Program.cs",
+              "ToolTip": "C:\\Venelin\\NaichestoSreshtanElement\\Program.cs",
+              "RelativeToolTip": "..\\NaichestoSreshtanElement\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:59:24.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Venelin\\Longestname\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Longestname\\Program.cs",
+              "ToolTip": "C:\\Venelin\\Longestname\\Program.cs",
+              "RelativeToolTip": "..\\Longestname\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:24:13.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Venelin\\TursenNaelement\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TursenNaelement\\Program.cs",
+              "ToolTip": "C:\\Venelin\\TursenNaelement\\Program.cs",
+              "RelativeToolTip": "..\\TursenNaelement\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:53:59.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Venelin\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Venelin\\Arrays\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:20:22.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

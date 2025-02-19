@@ -1,0 +1,14 @@
+C:\Venelin\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Venelin\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Venelin\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Venelin\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Venelin\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Venelin\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Venelin\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Venelin\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Venelin\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Venelin\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Venelin\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Venelin\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Venelin\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Venelin\Arrays\obj\Debug\net8.0\ref\Arrays.dll
