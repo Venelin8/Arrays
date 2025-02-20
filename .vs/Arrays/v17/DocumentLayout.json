@@ -3,17 +3,23 @@
   "WorkspaceRootPath": "C:\\Venelin\\Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D529DD98-AD8F-4CF6-9370-51A24979E7E3}|..\\OtpchatvasamoChetnite\\OtpchatvasamoChetnite.csproj|c:\\venelin\\otpchatvasamochetnite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E468C6-5893-4884-AFF6-6DFBE4FA13CD}|..\\KolkoputyseSreashtaChislo\\KolkoputyseSreashtaChislo.csproj|c:\\venelin\\kolkoputysesreashtachislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B80E800F-C07A-401E-932E-40F146006A7E}|..\\NaichestoSreshtanElement\\NaichestoSreshtanElement.csproj|c:\\venelin\\naichestosreshtanelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E4AAECC-078F-45AA-A687-595E86BB12BA}|..\\TursenNaelement\\TursenNaelement.csproj|c:\\venelin\\tursennaelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0DA8650-C444-4873-890B-CC649F5218DA}|Arrays.csproj|c:\\venelin\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DA8650-C444-4873-890B-CC649F5218DA}|Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1ECD687-C7FC-4A89-821E-E59B6A1D49B0}|..\\Longestname\\Longestname.csproj|c:\\venelin\\longestname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0DA8650-C444-4873-890B-CC649F5218DA}|Arrays.csproj|c:\\venelin\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0DA8650-C444-4873-890B-CC649F5218DA}|Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E4AAECC-078F-45AA-A687-595E86BB12BA}|..\\TursenNaelement\\TursenNaelement.csproj|c:\\venelin\\tursennaelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,18 +47,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Venelin\\OtpchatvasamoChetnite\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OtpchatvasamoChetnite\\Program.cs",
+              "ToolTip": "C:\\Venelin\\OtpchatvasamoChetnite\\Program.cs",
+              "RelativeToolTip": "..\\OtpchatvasamoChetnite\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:14:04.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Venelin\\KolkoputyseSreashtaChislo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\KolkoputyseSreashtaChislo\\Program.cs",
+              "ToolTip": "C:\\Venelin\\KolkoputyseSreashtaChislo\\Program.cs",
+              "RelativeToolTip": "..\\KolkoputyseSreashtaChislo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:06:23.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Venelin\\NaichestoSreshtanElement\\Program.cs",
               "RelativeDocumentMoniker": "..\\NaichestoSreshtanElement\\Program.cs",
               "ToolTip": "C:\\Venelin\\NaichestoSreshtanElement\\Program.cs",
               "RelativeToolTip": "..\\NaichestoSreshtanElement\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCQAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T09:59:24.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Venelin\\Longestname\\Program.cs",
               "RelativeDocumentMoniker": "..\\Longestname\\Program.cs",
@@ -65,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Venelin\\TursenNaelement\\Program.cs",
               "RelativeDocumentMoniker": "..\\TursenNaelement\\Program.cs",
@@ -73,8 +105,7 @@
               "RelativeToolTip": "..\\TursenNaelement\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T10:53:59.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T10:53:59.902Z"
             },
             {
               "$type": "Document",
@@ -84,9 +115,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Venelin\\Arrays\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T10:20:22.475Z"
+              "WhenOpened": "2025-02-11T10:20:22.475Z",
+              "EditorCaption": ""
             }
           ]
         }

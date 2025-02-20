@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longestname", "..\Longestna
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaichestoSreshtanElement", "..\NaichestoSreshtanElement\NaichestoSreshtanElement.csproj", "{B80E800F-C07A-401E-932E-40F146006A7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolkoputyseSreashtaChislo", "..\KolkoputyseSreashtaChislo\KolkoputyseSreashtaChislo.csproj", "{33E468C6-5893-4884-AFF6-6DFBE4FA13CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtpchatvasamoChetnite", "..\OtpchatvasamoChetnite\OtpchatvasamoChetnite.csproj", "{D529DD98-AD8F-4CF6-9370-51A24979E7E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B80E800F-C07A-401E-932E-40F146006A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B80E800F-C07A-401E-932E-40F146006A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B80E800F-C07A-401E-932E-40F146006A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E468C6-5893-4884-AFF6-6DFBE4FA13CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E468C6-5893-4884-AFF6-6DFBE4FA13CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E468C6-5893-4884-AFF6-6DFBE4FA13CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E468C6-5893-4884-AFF6-6DFBE4FA13CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D529DD98-AD8F-4CF6-9370-51A24979E7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D529DD98-AD8F-4CF6-9370-51A24979E7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D529DD98-AD8F-4CF6-9370-51A24979E7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D529DD98-AD8F-4CF6-9370-51A24979E7E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
